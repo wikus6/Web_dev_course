@@ -112,7 +112,7 @@
     <div class="container-fluid">  
       <hr>
       <h3>Tools</h3>
-      <p>Here you will find <strong>Visualization Tools</strong> and <strong>Computional Tools</strong>.</p>
+      <p>Here you will find <strong>Visualization Tools</strong>, <strong>Computional Tools</strong>, and <strong>Helpful Resources</strong>.</p>
       <hr>
       <div class="row">
           <!-- Card 1-->
@@ -133,11 +133,13 @@
           <div class="col-3 ">
             <div class="card" >
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+                <h5 class="card-title">Computation Tools</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="card-link">Card link</a>
-                <a href="#" class="card-link">Another link</a>
+                <p class="card-text">Some easy to use online tools for computation and visualization.</p>
+                <a href="https://www.wolframalpha.com/" class="card-link">Wolfram Alpha</a>
+                <a href="https://www.symbolab.com/" class="card-link">Symbo Lab</a>
+                <a href="https://www.desmos.com/" class="card-link">Desmos</a>
+                <a href="https://www.math3d.org/" class="card-link">Math3d</a>
               </div>
             </div>
           </div>
@@ -155,11 +157,17 @@
           <div class="col-3 " >
             <div class="card" >
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+                <h5 class="card-title">Resources</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">
+                  <!-- GRE Subject test -->                  
+                  <a href="/gre_math_resources.php" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
+                  title="Resources to use in studing for the GRE Mathematics subject test."
+                  >GRE Math</a>
+                </p>
                 <a href="#" class="btn">Card link</a>
-                <a href="#" class="card-link">Another link</a>
+                <a href="https://www.ets.org/gre/subject/about/content/mathematics/" class="card-link">GRE Math Home Page</a>
               </div>
             </div>
           </div>
@@ -179,7 +187,28 @@
           <div class="col-3 " >
             <div class="card">
               <img src="images/linAlg_card.png" alt="circ_card_photo" class="card-img-top">
-              <div class="card-body">
+              <div class="card-text">
+                <!-- Logic -->                  
+                <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
+                title="A kind introduction to Sentential Logic, Set Theory, and Qunatificational Logic"
+                >Logic and Other</button>
+                <!-- Proofs -->                  
+                <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
+                title="An introduction to the basic structures used to proof Mathematical statements"
+                >Basic Proof Structures</button>
+                <!-- Relations -->                  
+                <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
+                title="An introduction to some fundamental Mathematical objects."
+                >Relations</button>
+                <!-- Functions --Trigonometry>                  
+                <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
+                title="Functions as used in higher, more abstract Mathematics."
+                >Functions</button> -->
+                <!-- Principle of Mathematical Induction -->                  
+                <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
+                title="A guide to one of the most powerful proof techniques in Mathematics and Computer Science."
+                >Mathematical Induction</button>
+              </p>ard-body">
                 <h5 class="card-title">Linear Algebra</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Introduction</h6>
                 <p class="card-text"></p>
@@ -233,10 +262,10 @@
                   <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
                   title="An introduction to some fundamental Mathematical objects."
                   >Relations</button>
-                  <!-- Functions -->                  
+                  <!-- Functions --Trigonometry>                  
                   <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
                   title="Functions as used in higher, more abstract Mathematics."
-                  >Functions</button>
+                  >Functions</button> -->
                   <!-- Principle of Mathematical Induction -->                  
                   <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
                   title="A guide to one of the most powerful proof techniques in Mathematics and Computer Science."
@@ -248,7 +277,7 @@
           <div class="col-3 ">
             <div class="card">
               <div class="card-body">
-                <h5 class="card-title">Trigonometry</h5>
+                <h5 class="card-title"></h5>
                 <h6 class="card-subtitle mb-2 text-muted">Introduction</h6>
                 <p class="card-text">
                   <!-- Basics -->                  
