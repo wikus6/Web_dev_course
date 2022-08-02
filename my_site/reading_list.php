@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>About</title>
+        <title>Reading List</title>
     </head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -157,79 +157,77 @@
   <table class="table table-hover">
     <thead>
       <tr>
-        <th scope="col">Personal Rating</th>
+        <th scope="col">Personal Rating (?/5)</th>
         <th scope="col">Title</th>
         <th scope="col">About</th>
         <th scope="col">Author</th>
         <th scope="col">Biography or Autobiography</th>
-        <th scope="col">Summary</th>
 
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th scope="row">1</th>
+        <th scope="row">4.5</th>
         <td>Shoe Dog</td>
-        <td>Otto</td>
-        <td>@mdo</td>
+        <td>An autobiography wirtten by the founder of Nike, Phil Knight.</td>
+        <td>Phil Kngiht </td>
         <td>Autobiography</td>
-        <td></td>>
+        
       </tr>
       <tr>
-        <th scope="row">1</th>
+        <th scope="row">4.1</th>
         <td>Total Recall</td>
-        <td>Otto</td>
-        <td>@mdo</td>
+        <td>An autobiography written by Arnold Schwarzenegger from his humble upbringing in Austria to becoming
+          governer of California.
+        </td>
+        <td>Arnold Schwarzenegger</td>
         <td>Autobiography</td>
-        <td>@mdo</td>
+        
       </tr>
       <tr>
-        <th scope="row">2</th>
+        <th scope="row">3.9</th>
         <td>Steve Jobs</td>
-        <td>Thornton</td>
-        <td>@fat</td>        
+        <td>On his creation of Apple alongside Wozniak</td>
+        <td>Walter Isaacson</td>        
         <td>Biography</td>
-        <td>@mdo</td>
+
       </tr>
       <tr>
-        <th scope="row">1</th>
+        <th scope="row">3.8</th>
         <td>Benjamin Franklin</td>
-        <td>Otto</td>
-        <td>@mdo</td>
+        <td>From his early days as a printer to becoming one of the most well know men in the world.</td>
+        <td>Walter Isaacson</td>
         <td>Biography</td>
-        <td>@mdo</td>
       </tr>
       <tr>
-        <th scope="row">1</th>
+        <th scope="row">3.5</th>
         <td>Onward</td>
-        <td>Otto</td>
-        <td>@mdo</td>
+        <td>An autobiography by the Howard Schultz, former CEO of starbucks.</td>
+        <td>Howard Schultz</td>
         <td>Autobiography</td>
-        <td>@mdo</td>
+
       </tr>
       <tr>
-        <th scope="row">3</th>
+        <th scope="row">3.9</th>
         <td >Green Lights</td>
-        <td>@twitter</td>
-        <td>@mdo</td>
+        <td>An autobiography by the Matthew McCinaughey, famous acotr out of Texas.</td>
+        <td>Matthew McCinaughey</td>
         <td>Autobiography</td>
-        <td>@mdo</td>
       </tr>
       <tr>
-        <th scope="row">1</th>
+        <th scope="row">3.5</th>
         <td>Isaac Newton</td>
-        <td>Otto</td>
-        <td>@mdo</td>
-        <td>Biography</td>
-        <td>@mdo</td>
+        <td>Insights into the life and work of Sir Isaac Newton, and his secretive personality.</td>
+        <td>James Gleick</td>        <td>@mdo</td>
       </tr>
       <tr>
-        <th scope="row">1</th>
+        <th scope="row">4.4</th>
         <td>The Art of The Deal</td>
-        <td>Otto</td>
-        <td>@mdo</td>
+        <td>An autobiography written by Donald Trump in the 1980's on his rise to success as a real estate
+          giant in Manhattan.
+        </td>
+        <td>Doanld Trump and Tony Schwart</td>
         <td>Autobiography</td>
-        <td>@mdo</td>
       </tr>
     </tbody>
   </table>

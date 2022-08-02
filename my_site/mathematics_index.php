@@ -186,29 +186,9 @@
       <div class="row">
           <div class="col-3 " >
             <div class="card">
-              <img src="images/linAlg_card.png" alt="circ_card_photo" class="card-img-top">
+              <!--<img src="images/linAlg_card.png" alt="circ_card_photo" class="card-img-top">-->
               <div class="card-text">
-                <!-- Logic -->                  
-                <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
-                title="A kind introduction to Sentential Logic, Set Theory, and Qunatificational Logic"
-                >Logic and Other</button>
-                <!-- Proofs -->                  
-                <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
-                title="An introduction to the basic structures used to proof Mathematical statements"
-                >Basic Proof Structures</button>
-                <!-- Relations -->                  
-                <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
-                title="An introduction to some fundamental Mathematical objects."
-                >Relations</button>
-                <!-- Functions --Trigonometry>                  
-                <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
-                title="Functions as used in higher, more abstract Mathematics."
-                >Functions</button> -->
-                <!-- Principle of Mathematical Induction -->                  
-                <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
-                title="A guide to one of the most powerful proof techniques in Mathematics and Computer Science."
-                >Mathematical Induction</button>
-              </p>ard-body">
+           
                 <h5 class="card-title">Linear Algebra</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Introduction</h6>
                 <p class="card-text"></p>
@@ -236,7 +216,7 @@
           <div class="col-3 ">
             <div class="card">
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+                <h5 class="card-title">Algebra</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 <a href="#" class="card-link">Card link</a>
@@ -247,30 +227,27 @@
           <div class="col-3 ">
             <div class="card">
               <div class="card-body">
-                <h5 class="card-title">Discrete Mathematics</h5>
+                <h5 class="card-title">Analysis</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
                 <p class="card-text">
                   <!-- Logic -->                  
                   <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
-                  title="A kind introduction to Sentential Logic, Set Theory, and Qunatificational Logic"
-                  >Logic and Other</button>
+                  title="In Progress"
+                  >Real Analysis</button>
                   <!-- Proofs -->                  
                   <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
-                  title="An introduction to the basic structures used to proof Mathematical statements"
-                  >Basic Proof Structures</button>
+                  title="In Progress"
+                  >Complex Analysis</button>
                   <!-- Relations -->                  
                   <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
-                  title="An introduction to some fundamental Mathematical objects."
-                  >Relations</button>
+                  title="In Progress"
+                  >Functional Analysis</button>
                   <!-- Functions --Trigonometry>                  
                   <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
                   title="Functions as used in higher, more abstract Mathematics."
                   >Functions</button> -->
                   <!-- Principle of Mathematical Induction -->                  
-                  <button href="#" class="btn btn-outline-success btn-sm mb-1" data-toggle="tooltip" 
-                  title="A guide to one of the most powerful proof techniques in Mathematics and Computer Science."
-                  >Mathematical Induction</button>
-                </p>
+                
               </div>
             </div>
           </div>
