@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Math Subject Test</title>
+        <title>GRE Math Subject Test</title>
     </head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -47,7 +47,6 @@
       include("nav.html");
     ?>
     <br>
-  
 
     <!-- **************************************************************** -->
     <!--GRE Resource-->
@@ -56,7 +55,7 @@
     <div class="container-fluid">  
       <hr>
         <h3>Resources (Under Construction)</h3>
-        <p>Some resoures gather while studyin for the GRE Math subject test.</p>
+        <p>Some resoures gather while studying for the GRE Math subject test.</p>
         <hr>
         <!-- **************************************************************** -->
         <!--Popular Mathematics-->
@@ -66,7 +65,7 @@
             <div class="col">
               <div class="card">
                 <div class="card-body">
-                  <h5 class="card-title">...</h5>
+                  <h5 class="card-title">Resources</h5>
  
                   <p class="card-text">
                 </p>
@@ -91,7 +90,7 @@
       <tbody>
         <tr>
           <th scope="row">1</th>
-          <td>...</td>
+          <td></td>
           <td>Otto</td>
           <td>@mdo</td>
           <td>@mdo</td>
@@ -103,7 +102,7 @@
   
             <div class="card">
               <div class="card-body">
-                <h5 class="card-title">...</h5>
+                <h5 class="card-title">Solutions to Selected Topics</h5>
 
                 <p class="card-text">
               </p>
@@ -118,25 +117,167 @@
   <table class="table table-hover">
     <thead>
       <tr>
-        <th scope="col">Heading 1</th>
-        <th scope="col">Heading 2</th>
-        <th scope="col">Heading 3</th>
-        <th scope="col">Heading 4</th>
-        <th scope="col">Heading 5</th>
-        <th scope="col">Heading 6</th>
+        <th scope="col">Area in Mathematics</th>
+        <th scope="col">Topic and Source</th>
+
+ 
 
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th scope="row">1</th>
-        <td>...</td>
-        <td>Otto</td>
-        <td>@mdo</td>
-        <td>... </td>
+        <th scope="row">Pre-Calculus</th>
+        <td><div class="list-group">
+          <a href="#" class="list-group-item list-group-item-action active">
+            Basic Algebra</a>
+          <!-- Remember to disable buttons-->
+          <a href="#" class="list-group-item list-group-item-action disabled">Dapibus ac facilisis in</a>
+          <a href="#" class="list-group-item list-group-item-action disabled">Morbi leo risus</a>
+          <a href="#" class="list-group-item list-group-item-action disabled">Porta ac consectetur ac</a>
+          <a href="#" class="list-group-item list-group-item-action ">Trigonometry</a>
+        </div></td>
         <td></td>
+
+
+
       </tr>
+      <!-- Calculus I-->
+      <tr>
+        <th scope="row">Calculus I</th>
+        <!-- Differential Calc start-->
+        <td><div class="list-group">
+          <!-- Remember to disable buttons-->
+          <a href="#" class="list-group-item list-group-item-action ">
+
+            <div class="dropdown">
+              <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Differential Caluclus 
+              </a>
+            
+              <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                <a class="dropdown-item" href="#">...</a>
+                
+                <a class="dropdown-item" href="#">...</a>
+              </div>
+            </div>
+          </a> <!-- Differential Calc end-->
+          <!-- Integral Calc start-->
+          <a href="#" class="list-group-item list-group-item-action ">
+            <div class="dropdown">
+              <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Integral Calculus
+              </a>
+            
+              <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                <a class="dropdown-item" href="math_pdf/Integral_calc_pdf.pdf" target="_blank">Integration Techniques</a>
+                <a class="dropdown-item" href="math_pdf/Volume_of_s_of_rev_pdf.pdf">Volumes of Solids of Revolution</a>
+                <a class="dropdown-item" href="#">...</a>
+              </div>
+            </div>
+          
+          </a><!-- Integral Calc end-->
+
+        </div></td> 
+        <td></td>
+
+      </tr>
+            <!-- Calculus II-->
+            <tr>
+              <th scope="row">Calculus II</th>
+              <td>
+                <div class="list-group">
+                  <!-- Remember to disable buttons-->
+                  <a href="#" class="list-group-item list-group-item-action ">
+        
+                    <div class="dropdown">
+                      <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Multivariate Differential Caluclus 
+                      </a>
+                    
+                      <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                        <a class="dropdown-item" href="#">...</a>
+                        
+                        <a class="dropdown-item" href="math_pdf/dist_in_r3.pdf">Distance in Euclidean Space</a>
+                        <a class="dropdown-item" href="#">...</a>
+                        <a class="dropdown-item" href="#">...</a>
+                      </div>
+                    </div>
+                  </a> <!-- Differential Calc end-->
+                  <!-- Integral Calc start-->
+                  <a href="#" class="list-group-item list-group-item-action ">
+                    <div class="dropdown">
+                      <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Multivariate Integral Calculus
+                      </a>
+                    
+                      <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                        <a class="dropdown-item" href="#" target="_blank">...</a>
+                        <a class="dropdown-item" href="#">...</a>
+                        <a class="dropdown-item" href="#">...</a>
+                      </div>
+                    </div>
+                  
+                  </a><!-- Integral Calc end-->
+        
+                </div>
+
+              </td>
+
+
+            </tr>
+      <!-- Differential Equations -->
+      <tr>
+        <th scope="row">Differential Equations</th>
+        <td><div class="list-group">
+          <a href="#" class="list-group-item list-group-item-action active">Introduction</a>
+          <!-- Remember to disable buttons-->
+          <a href="#" class="list-group-item list-group-item-action disabled">First Order Ordinary Differential Equations</a>
+          <a href="#" class="list-group-item list-group-item-action disabled">Second and higher Order Ordinary Differential Equations</a>
+          <a href="#" class="list-group-item list-group-item-action disabled">Extra: Laplace Transforms</a>
+          <a href="math_pdf/mixing_prob1.pdf" class="list-group-item list-group-item-action ">Application of FODE: Exponential Growth and Mixing Problems</a>
+        </div></td>
+
+
+      </tr>
+      <!-- Linear Algebra-->
+      <tr>
+        <th scope="row">Linear Algebra</th>
+        <td></td>
+
+
+      </tr>
+      <!-- Abstract Algebra-->
+      <tr>
+        <th scope="row">Abstract Algebra</th>
+        <td></td>
+
+
+      </tr>
+      <!-- Point Set Topology-->
+      <tr>
+        <th scope="row">Point Set Topology</th>
+        <td></td>
+
+
+      </tr>
+      <!-- Complex Variables -->
+      <tr>
+        <th scope="row"> Complex Variables </th>
+        <td></td>
+
+
+      </tr>
+            <!-- Resources -->
+            <tr>
+              <th scope="row">Resources Used</th>
+              <td>  
+                <a class="btn btn-secondary " href="math_pdf/list_of_resources.pdf" role="button" id="dropdownMenuLink"  aria-haspopup="true" aria-expanded="false">
+                List of Resources</a>
+            </td>
       
+      
+            </tr>
+
     </tbody>
   </table>
 
