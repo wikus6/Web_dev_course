@@ -54,11 +54,11 @@
 
     <div class="container-fluid">  
       <hr>
-        <h3>Resources (Under Construction)</h3>
-        <p>Some resoures gather while studying for the GRE Math subject test.</p>
+        <h3>Resources</h3>
+        <p>Some resoures gather while studying for the GRE Math subject test in 2022.</p>
         <hr>
         <!-- **************************************************************** -->
-        <!--Popular Mathematics-->
+        <!--Resources-->
         <!-- **************************************************************** -->
 
         <div class="row">
@@ -80,29 +80,95 @@
     <table class="table table-hover">
       <thead>
         <tr>
-          <th scope="col">Heading 1</th>
-          <th scope="col">Heading 2</th>
-          <th scope="col">Heading 3</th>
-          <th scope="col">Heading 4</th>
-          <th scope="col">Heading 5</th>
+          <th scope="col">Resource Type</th>
+          <th scope="col">Link To Pdf</th>
+          <th scope="col">Source</th>
+
         </tr>
       </thead>
       <tbody>
         <tr>
-          <th scope="row">1</th>
-          <td></td>
-          <td>Otto</td>
-          <td>@mdo</td>
-          <td>@mdo</td>
+          <th scope="row">Practise Test</th>
+          <td><a class="dropdown-item" href="math_pdf/gre_test/GR0568.pdf" target="_blank">GR0568</a></td>
+          <td>ETS</td>
         </tr>
-        
+        <tr>
+          <th scope="row">Practise Test</th>
+          <td><a class="dropdown-item" href="math_pdf/gre_test/GR1768.pdf" target="_blank">GR1768</a></td>
+          <td>ETS</td>
+        </tr>
+        <tr>
+          <th scope="row">Practise Test</th>
+          <td><a class="dropdown-item" href="math_pdf/gre_test/GR8767.pdf" target="_blank">GR8767</a></td>
+          <td>ETS</td>
+        </tr>
+        <tr>
+          <th scope="row">Practise Test</th>
+          <td><a class="dropdown-item" href="math_pdf/gre_test/GR8767.pdf" target="_blank">GR8767</a></td>
+          <td>ETS</td>
+        </tr>
+        <tr>
+          <th scope="row">Practise Test</th>html
+          <td><a class="dropdown-item" href="math_pdf/gre_test/GR9367.pdf" target="_blank">GR9367</a></td>
+          <td>ETS</td>
+        </tr>  
+        <tr>
+          <th scope="row">Practise Test</th>
+          <td><a class="dropdown-item" href="math_pdf/gre_test/GR9768.pdf" target="_blank">GR9768</a></td>
+          <td>ETS</td>
+        </tr>       
+        <!--Rambo-->
+        <tr>
+          <th scope="row">Practise For GRE Math Subject Test</th>
+          <td><a class="dropdown-item" href="math_pdf/Rambo_prac/rambo_prac.pdf" target="_blank">Practise Test</a></td>
+          <td>Charles Rambo</td>
+        </tr>         
+        <tr>
+          <th scope="row">Practise For GRE Math Subject Test Solutions</th>
+          <td><a class="dropdown-item" href="math_pdf/Rambo_prac/rambo_prac_sol.pdf" target="_blank">Solutions</a></td>
+          <td>Charles Rambo</td>
+        </tr> 
+        <tr>
+          <th scope="row">University of Chicago Practise Problems</th>
+          <td>
+           <ul> 
+            <a class="dropdown-item" href="math_pdf/chicago_gre/week1.pdf" target="_blank">Week1</a>
+            <a class="dropdown-item" href="math_pdf/chicago_gre/week2.pdf" target="_blank">Week2</a>
+            <a class="dropdown-item" href="math_pdf/chicago_gre/week3.pdf" target="_blank">Week3</a>
+            <a class="dropdown-item" href="math_pdf/chicago_gre/week4.pdf" target="_blank">Week4</a>
+            <a class="dropdown-item" href="math_pdf/chicago_gre/week5.pdf" target="_blank">Week5</a>
+            <a class="dropdown-item" href="math_pdf/chicago_gre/week6.pdf" target="_blank">Week6</a>
+            <a class="dropdown-item" href="math_pdf/chicago_gre/extra.pdf" target="_blank">extra</a>
+          </ul>
+  
+          
+          </td>
+          <td>University Of Chicago</td>
+        </tr>
+        <tr>
+          <th scope="row">University of California Berkley Practise Problems</th>
+          <td>
+           <ul> 
+            <a class="dropdown-item" href="math_pdf/ucla/GRE16f-Chousionis.pdf" target="_blank">Set1</a>
+            <a class="dropdown-item" href="math_pdf/ucla/GRE16f-Xiao.pdf" target="_blank">Set2</a>
+            <a class="dropdown-item" href="math_pdf/ucla/GRE16s-Chen.pdf" target="_blank">Set3</a>
+            <a class="dropdown-item" href="math_pdf/ucla/GRE16s-Chousionis.pdf" target="_blank">Set4</a>
+            <a class="dropdown-item" href="math_pdf/ucla/GRE16s-Xiao.pdf" target="_blank">Set5</a>
+            <a class="dropdown-item" href="math_pdf/ucla/GREfall2018.pdf" target="_blank">Set6</a>
+          </ul>
+  
+          
+          </td>
+          <td>University of California Berkley</td>
+        </tr>
+
         
       </tbody>
     </table>
   
             <div class="card">
               <div class="card-body">
-                <h5 class="card-title">Solutions to Selected Topics</h5>
+                <h5 class="card-title">Solutions to Selected Topics (Under Construction)</h5>
 
                 <p class="card-text">
               </p>
