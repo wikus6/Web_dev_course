@@ -94,7 +94,7 @@
                     <li>Internship: Softare Engineer at Epi Use (2021)
                       <ul>
                         <li >
-                              <a href="#" class="btn" data-toggle="tooltip" 
+                              <a href="#" style="text-decorations:none; color:inherit;" data-toggle="tooltip" 
                               title="During the summer of 2021, I did an internship at Epi-Use, a
                               software development company based in Atlanta Georgia. I
                               was assigned to a team that included three senior software
@@ -132,7 +132,7 @@
                               to the entire division of the company."
                               >More</a>
                             </li>
-                            <a href="math_pdf/about_me_files/Math in the Valley Winter 2022.pdf" target="_blank">Newsletter (pg. 11)</a>
+                            <li><a style="text-decorations:none; color:inherit;" href="math_pdf/about_me_files/Math in the Valley Winter 2022.pdf" target="_blank">Newsletter (pg. 11)</a></li>
                       </ul>
                     </li>
                     
